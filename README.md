@@ -1,4 +1,4 @@
-
+### Topsis_Cherish_102003647
 
 _for: **Topsis_Cherish_102003647**_
 _submitted by: **Cherish Mahajan**_
@@ -23,7 +23,7 @@ Enter csv filename followed by _.csv_ extension, then enter the _weights_ vector
 ### Input
 And using this package in Python as :
 ```bash
-import topsispy as tp
+import Topsis_Cherish_102003647 as tp
 a =[
      [250, 16, 12, 5],
      [200, 16, 8, 3],
