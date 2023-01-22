@@ -7,8 +7,8 @@ setup(
   description = 'It is a topsis package.',   # Give a short description about your library
   author = 'Cherish Mahajan',                   # Type in your name
   author_email = 'cherishmahajan@gmail.com',      # Type in your E-Mail
-  url = 'https://github.com/15cherish/Topsis-Cherish-102003647',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/15cherish/Topsis-Cherish-102003647/archive/refs/tags/0.2.tar.gz',    # I explain this later on
+  url = 'https://github.com/15cherish/Topsis_Cherish_102003647',   # Provide either the link to your github or to your website
+  download_url = 'https://github.com/15cherish/Topsis_Cherish_102003647/archive/refs/tags/0.1.tar.gz',    # I explain this later on
   keywords = ['MCDM', '102003647', 'TOPSIS'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           'numpy',
